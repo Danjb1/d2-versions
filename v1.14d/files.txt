@@ -1,0 +1,16 @@
+BlizzardError.exe
+Game.exe
+SystemSurvey.exe
+
+binkw32.dll
+ijl11.dll
+SmackW32.dll
+
+Patch_D2.mpq
+
+    ----------------------------------------------------------------------------
+    NOTE:
+    ----------------------------------------------------------------------------
+     - v1.14d requires no DLL files other than the ones supplied!
+     - The patch also deletes D2VidTst.exe.
+     - Keeping these files should not do any harm.

@@ -1,0 +1,54 @@
+save/
+support/
+
+D2VidTst.exe
+Diablo II.exe
+Game.exe
+
+binkw32.dll
+Bnclient.dll
+D2Client.dll
+D2CMP.dll
+D2Common.dll
+D2DDraw.dll
+D2Direct3D.dll
+D2Game.dll
+D2Gdi.dll
+D2gfx.dll
+D2Glide.dll
+D2Lang.dll
+D2Launch.dll
+D2MCPClient.dll
+D2Multi.dll
+D2Net.dll
+D2Sound.dll
+D2Win.dll
+Fog.dll
+ijl11.dll
+SmackW32.dll
+Storm.dll
+
+d2char.mpq
+d2data.mpq
+d2exp.mpq
+d2music.mpq
+d2sfx.mpq
+d2speech.mpq
+d2video.mpq
+d2xtalk.mpq
+
+D2.LNG
+
+d2readme.htm
+xreadme.htm
+
+License.txt
+
+    ----------------------------------------------------------------------------
+    NOTE:
+    ----------------------------------------------------------------------------
+     - The folders, readmes and license are not required for the game to run,
+       but are included here for completion.
+     - Similarly "D2VidTst.exe" and "Diablo II.exe" are separate applications,
+       and are not required by the actual game.
+
