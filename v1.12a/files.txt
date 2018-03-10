@@ -26,5 +26,6 @@ Patch_D2.mpq
     ----------------------------------------------------------------------------
     NOTE:
     ----------------------------------------------------------------------------
-     - As of v1.12a, the game can run without the CD if D2xMusic.mpq is copied
-       to the game directory from the LoD CD.
+     - As of v1.12a, the game can run without the CD if all required MPQ files
+       are present in the game directory. Most users will need to copy
+       D2xMusic.mpq and D2xVideo.mpq to the game directory from the LoD CD.
